@@ -1,0 +1,27 @@
+@charset "utf-8";
+/* CSS Document */
+.wrap{
+	background-color: #037386;
+	display:flex;
+	flex-wrap:wrap;
+}
+img{
+	width:100%;
+}
+
+.shop{
+    background-color: #FFB8DB;
+    width: 100%;
+    border: thick solid #EE1A80;
+}
+
+.cakes{
+    background-color: #D6FDA8;
+    float: left;
+    width: 50%;
+	
+}
+
+.logo{
+	width: 20%;
+}
